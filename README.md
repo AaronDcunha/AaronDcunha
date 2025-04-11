@@ -23,5 +23,5 @@
 
 ## 📫 Let's Connect!
 
-- 💼 LinkedIn: [your-link](https://www.linkedin.com/in/aaron-d-cunha-3893b1226/)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/aaron-d-cunha-3893b1226/)
 - 📬 Email: aaronpdcunha@hotmail.com
