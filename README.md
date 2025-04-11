@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey there! 👋 I'm Aaron D'Cunha
 
-<!--
-**AaronDcunha/AaronDcunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a university student studying at UT Dallas passionate about **Full-Stack development**, **AI**, and **Game Development**.  
+🌱 Currently learning more about Machine Learning and diving deep into AI Technologies.  
+📚 Contributor at [BiotechClubUTD](https://github.com/biotechutd/) – helping build and host the official site.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, Java, HTML, CSS, Python, C#, C++, Lua
+- **Frameworks/Libraries:** React
+- **Tools/Platforms:** Git & GitHub, VS Code, Unity
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent)
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 LinkedIn: [your-link](https://www.linkedin.com/in/aaron-d-cunha-3893b1226/)
+- 📬 Email: aaronpdcunha@hotmail.com
