@@ -16,8 +16,8 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaronDcunhae&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDcunha&layout=compact&theme=transparent)
 
 ---
 
