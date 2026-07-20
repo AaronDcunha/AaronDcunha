@@ -35,13 +35,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaronDcunha&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDcunha&layout=compact&theme=transparent)
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aaron-dcunha/)
